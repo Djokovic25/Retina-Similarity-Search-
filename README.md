@@ -13,6 +13,7 @@ An interactive application for **diabetic retinopathy (DR) grading** using **emb
 
 --- 
 
+![Demo Screenshot2](https://github.com/Djokovic25/Retina-Similarity-Search-/blob/9beb6504c817117bb779d3e51b775823e861493b/assets/Screenshot%202026-02-16%20at%203.28.56%E2%80%AFPM.png)
 
 **Why?**
 - Disease progression is continuous, not discrete  
@@ -20,15 +21,8 @@ An interactive application for **diabetic retinopathy (DR) grading** using **emb
 - Strong representations can replace heavy supervised training  
 - Embedding geometry reveals structural patterns in severity
 
-
-
-**Why?**
-- Disease progression is continuous, not discrete  
-- Similar past cases provide interpretability  
-- Strong representations can replace heavy supervised training  
-- Embedding geometry reveals structural patterns in severity  
-
 ---
+![KNN](https://github.com/Djokovic25/Retina-Similarity-Search-/blob/9beb6504c817117bb779d3e51b775823e861493b/assets/Screenshot%202026-02-16%20at%203.29.07%E2%80%AFPM.png)
 
 ## ✨ Core Components
 
@@ -92,6 +86,9 @@ Retina-Similarity-Search/
         ├── image_only2.index
         └── umap.pkl
 ```
+
+![Embedding Visualisation](https://github.com/Djokovic25/Retina-Similarity-Search-/blob/9beb6504c817117bb779d3e51b775823e861493b/assets/Screenshot%202026-02-16%20at%203.31.11%E2%80%AFPM.png)
+
 ## 🚀 Installation & Setup
 
 1. **Clone the repository**
