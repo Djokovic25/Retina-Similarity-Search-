@@ -65,9 +65,9 @@ import umap
 # ------------------------------------------------
 # CONFIG
 # ------------------------------------------------
-IMAGE_DIR = "/Users/aniruddhaambekar/Desktop/multimodal-retrieval/data/Train/images"
-CSV_PATH = "/Users/aniruddhaambekar/Desktop/multimodal-retrieval/data/annotations_train.csv"
-OUTPUT_DIR = "/Users/aniruddhaambekar/Desktop/multimodal-retrieval/src/embeddings2"
+IMAGE_DIR = "data/Train/images"
+CSV_PATH = "data/annotations_train.csv"
+OUTPUT_DIR = "src/embeddings2"
 
 DEVICE = "mps" if torch.backends.mps.is_available() else "cpu"
 
